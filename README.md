@@ -1,4 +1,4 @@
-# YoutubeDataAnalysis
+# Youtube Data Analysis
 
 This is a data analytics coursework from my master degree at QMUL. 
 
